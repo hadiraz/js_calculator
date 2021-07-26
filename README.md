@@ -1,2 +1,7 @@
 # js_calculator
-this is a javascript calculator
+## This is a Javascript Calculator
+<br>
+<br>
+<br>
+
+<img src="./js_calc.png">
